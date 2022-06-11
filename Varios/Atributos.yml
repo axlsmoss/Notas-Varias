@@ -1,0 +1,43 @@
+Atributos y elementos HTML / JavaScript
+
+HTML usa un lenguaje de etiquetas para construir páginas web. Estas etiquetas HTML son palabras clave y atributos rodeados de los signos
+mayor y menor (por ejemplo, <html lang="es">). En este caso, html es la palabra clave y lang es el atributo con el valor es. La mayoría de las etiquetas
+HTML se utilizan en pares, una etiqueta de apertura y una de cierre, y el contenido se declara entre ellas. En nuestro ejemplo, <html lang="es"> indica
+el comienzo del código HTML y </html> indica el final. Compare las etiquetas de apertura y cierre y verá que la de cierre se distingue por una barra invertida 
+antes de la palabra clave (por ejemplo, </html>). El resto de nuestro código será insertado entre estas dos etiquetas: <html> ... </html>.
+
+
+
+
+
+** Elementos / Etiquetas **
+
+<!DOCTYPE html>     
+Esta línea debe ser la primera línea del archivo, sin espacios o líneas que la precedan. De esta forma, el modo estándar del navegador es activado y 
+las incorporaciones de HTML5 son interpretadas siempre que sea posible, o ignoradas en caso contrario.
+
+<html></html>
+Etiqueta de apertura 
+
+
+
+
+
+
+
+
+
+
+
+
+** Atributos ** 
+
+lang
+El atributo lang en la etiqueta de apertura <html> es el único atributo que
+necesitamos especificar en HTML5. Este atributo define el idioma humano del contenido
+del documento que estamos creando, en este caso es por español.
+
+<!DOCTYPE html>
+<html lang=”es”>
+
+</html>
