@@ -3,4 +3,12 @@
   while
 
   React - Libreria de Javascript
-  
+
+#Declaración de variables 
+  let "variable";
+  var "variable";
+  const "variable";
+
+camelcase     => miVariable
+casesensitive => miVariable != MiVariable 
+
